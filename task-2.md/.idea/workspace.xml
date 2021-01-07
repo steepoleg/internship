@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f60a4f2b-55fa-4a32-b7cd-38d2f392d6c2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1maEF3bWUcCWKrGkphzL45cCsaz" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.FirstTest.testOfResetButton">
+    <configuration name="FirstTest.testOfFloatingButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avito_st" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.avito.m.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.avito.m" />
+      <option name="MAIN_CLASS_NAME" value="ru.avito.m.FirstTest" />
+      <option name="METHOD_NAME" value="testOfFloatingButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.testOfResetButton" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avito_st" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.avito.m.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.avito.m" />
+      <option name="MAIN_CLASS_NAME" value="ru.avito.m.FirstTest" />
+      <option name="METHOD_NAME" value="testOfResetButton" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.testOfSearchLine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avito_st" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.avito.m.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.avito.m" />
+      <option name="MAIN_CLASS_NAME" value="ru.avito.m.FirstTest" />
+      <option name="METHOD_NAME" value="testOfSearchLine" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.testOfStationsDouble" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avito_st" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.avito.m.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.avito.m" />
+      <option name="MAIN_CLASS_NAME" value="ru.avito.m.FirstTest" />
+      <option name="METHOD_NAME" value="testOfStationsDouble" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.testOfTabs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="avito_st" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.avito.m.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.avito.m" />
+      <option name="MAIN_CLASS_NAME" value="ru.avito.m.FirstTest" />
+      <option name="METHOD_NAME" value="testOfTabs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FirstTest.testOfResetButton" />
+        <item itemvalue="JUnit.FirstTest.testOfSearchLine" />
+        <item itemvalue="JUnit.FirstTest.testOfStationsDouble" />
+        <item itemvalue="JUnit.FirstTest.testOfFloatingButton" />
+        <item itemvalue="JUnit.FirstTest.testOfTabs" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f60a4f2b-55fa-4a32-b7cd-38d2f392d6c2" name="Default Changelist" comment="" />
+      <created>1609723194284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609723194284</updated>
+      <workItem from="1609723198784" duration="10247000" />
+      <workItem from="1609840960008" duration="3020000" />
+      <workItem from="1609845025652" duration="13555000" />
+      <workItem from="1610037766269" duration="3853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
